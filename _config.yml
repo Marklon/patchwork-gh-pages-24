@@ -1,0 +1,21 @@
+# Site settings
+title: Mark's Profile
+email: mark@marklon.io
+description: > # this means to ignore newlines until "baseurl:"
+  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+baseurl: "/project-gh-pages"
+url: "http://marklon.github.io"
+twitter_username: @Marklon
+github_username:  Marklon
+permalink: /blog/:2016/:On-Line/
+
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+collections:
+    - index
