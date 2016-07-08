@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a5/279/2bc6486.jpg"
+name: "Mark Bills"
+title: "System Administrator"
 ---
 
 #### *Mark is a Linux System Administrator with a people-first perspective offering twelve years of experience in tech support seeking to join a dynamic organization in an IT or Jr. Linux System Administration function.*
@@ -28,7 +28,7 @@ His accomplishments include designing and building career-oriented programs at [
 *	
 
  
-EDUCATION
+<u>EDUCATION</u>
 U.C. Berkeley (SF)							January 2016 - June 2016
 UNIX / Linux System Fundamentals (Certificate)
 
